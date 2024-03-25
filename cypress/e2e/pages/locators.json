@@ -1,0 +1,20 @@
+{
+    "username" : "#user-name",
+    "password":"#password",
+    "Login button":"#login-button",
+    "hamburger icon":"#react-burger-menu-btn",
+    "sidebar":"div.bm-menu-wrap",
+    "close button":"#react-burger-cross-btn",
+    "cart icon":"#shopping_cart_container",
+    "footer":"footer.footer",
+    "footerheading":"div.footer_copy",
+    "product sort":"select.product_sort_container",
+    "cards":"div.inventory_list div.inventory_item",
+    "product image":"div.inventory_item_img",
+    "product name":"div.inventory_item_name ",
+    "product description":"div.inventory_item_desc",
+    "product prize":"div.inventory_item_price",
+    "add to card button":"button.btn_inventory",
+    "first product image":"div.inventory_item a:first",
+    "Swag Labs":"div.login_logo"
+}
